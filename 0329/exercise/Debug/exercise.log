@@ -1,0 +1,3 @@
+﻿  ex3.c
+C:\Users\LG\Desktop\KNU20211\DataStructure\0329\exercise\ex3.c(78,10): warning C4778: 'printf' : 서식 문자열 '%'이(가) 종결되지 않았습니다.
+  exercise.vcxproj -> C:\Users\LG\Desktop\KNU20211\DataStructure\0329\Debug\exercise.exe

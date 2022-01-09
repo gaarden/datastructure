@@ -1,0 +1,11 @@
+﻿  ex1.c
+  ex2.c
+  ex3.c
+  코드를 생성하고 있습니다...
+ex2.obj : error LNK2005: _main이(가) ex1.obj에 이미 정의되어 있습니다.
+ex2.obj : error LNK2005: _print이(가) ex1.obj에 이미 정의되어 있습니다.
+ex2.obj : error LNK2005: _read_data2이(가) ex1.obj에 이미 정의되어 있습니다.
+ex3.obj : error LNK2005: _main이(가) ex1.obj에 이미 정의되어 있습니다.
+ex3.obj : error LNK2005: _make1dArray이(가) ex1.obj에 이미 정의되어 있습니다.
+ex3.obj : error LNK2005: _selection_sort이(가) ex1.obj에 이미 정의되어 있습니다.
+C:\Users\LG\Desktop\KNU20211\DataStructure\0310\Debug\exercise.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

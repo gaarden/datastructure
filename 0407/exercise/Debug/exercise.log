@@ -1,0 +1,3 @@
+﻿  ex1-1.c
+C:\Users\LG\Desktop\KNU20211\DataStructure\0407\exercise\ex1-1.c(18,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'poly' 왼쪽은 무시됩니다.
+  exercise.vcxproj -> C:\Users\LG\Desktop\KNU20211\DataStructure\0407\Debug\exercise.exe

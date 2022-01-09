@@ -1,0 +1,3 @@
+﻿  ex2.c
+C:\Users\LG\Desktop\KNU20211\DataStructure\0412\comment\ex2.c(15,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'node' 왼쪽은 무시됩니다.
+  comment.vcxproj -> C:\Users\LG\Desktop\KNU20211\DataStructure\0412\Debug\comment.exe

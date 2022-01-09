@@ -1,0 +1,6 @@
+﻿  ex2.c
+C:\Users\LG\Desktop\KNU20211\DataStructure\final\0512\ex2.c(26,18): warning C4020: 'printList': 실제 매개 변수가 너무 많습니다.
+C:\Users\LG\Desktop\KNU20211\DataStructure\final\0512\ex2.c(73,17): warning C4020: 'printList': 실제 매개 변수가 너무 많습니다.
+C:\Users\LG\Desktop\KNU20211\DataStructure\final\0512\ex2.c(69,10): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+C:\Users\LG\Desktop\KNU20211\DataStructure\final\0512\ex2.c(105,1): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+  0512.vcxproj -> C:\Users\LG\Desktop\KNU20211\DataStructure\final\Debug\0512.exe

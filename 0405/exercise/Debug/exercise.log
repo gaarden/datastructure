@@ -1,0 +1,3 @@
+﻿  ex2.c
+C:\Users\LG\Desktop\KNU20211\DataStructure\0405\exercise\ex2.c(11,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'polyNode' 왼쪽은 무시됩니다.
+  exercise.vcxproj -> C:\Users\LG\Desktop\KNU20211\DataStructure\0405\Debug\exercise.exe

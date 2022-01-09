@@ -1,0 +1,4 @@
+﻿  ex2.c
+C:\Users\LG\Desktop\KNU20211\DataStructure\0510\exercise2\ex2.c(7,1): warning C4005: 'INT_MIN': 매크로 재정의
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\limits.h(35): message : 'INT_MIN'의 이전 정의를 참조하십시오.
+  exercise2.vcxproj -> C:\Users\LG\Desktop\KNU20211\DataStructure\0510\Debug\exercise2.exe

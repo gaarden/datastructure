@@ -1,0 +1,1 @@
+3 1 i apple 사과 i banana 바나나 i cherry 체리 d apple d banana d cherry d donut i elephant 코끼리 i fox 여우 i grape 포도 s elephant s fox s grape s happy i happy 행복

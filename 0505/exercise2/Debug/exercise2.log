@@ -1,0 +1,5 @@
+﻿  ex2.c
+C:\Users\LG\Desktop\KNU20211\DataStructure\0505\exercise2\ex2.c(14,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'node' 왼쪽은 무시됩니다.
+C:\Users\LG\Desktop\KNU20211\DataStructure\0505\exercise2\ex2.c(292,3): warning C4033: 'deleteq'은(는) 값을 반환해야 합니다.
+C:\Users\LG\Desktop\KNU20211\DataStructure\0505\exercise2\ex2.c(294): warning C4715: 'deleteq': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  exercise2.vcxproj -> C:\Users\LG\Desktop\KNU20211\DataStructure\0505\Debug\exercise2.exe

@@ -1,0 +1,4 @@
+﻿  ex2.c
+C:\Users\LG\Desktop\KNU20211\DataStructure\0503\exercise2\ex2.c(14,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'node' 왼쪽은 무시됩니다.
+C:\Users\LG\Desktop\KNU20211\DataStructure\0503\exercise2\ex2.c(22,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'queue' 왼쪽은 무시됩니다.
+  exercise2.vcxproj -> C:\Users\LG\Desktop\KNU20211\DataStructure\0503\Debug\exercise2.exe

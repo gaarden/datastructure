@@ -1,0 +1,3 @@
+﻿  ex2.c
+C:\Users\LG\Desktop\KNU20211\DataStructure\0308\comment\ex2.c(54,15): warning C4477: 'fprintf' : 서식 문자열 '%9d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double'입니다.
+  comment.vcxproj -> C:\Users\LG\Desktop\KNU20211\DataStructure\0308\Debug\comment.exe

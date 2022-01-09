@@ -1,0 +1,5 @@
+﻿  ex3.c
+C:\Users\LG\Desktop\KNU20211\DataStructure\0512\exercise3\ex3.c(14,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'node' 왼쪽은 무시됩니다.
+C:\Users\LG\Desktop\KNU20211\DataStructure\0512\exercise3\ex3.c(23,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'queue' 왼쪽은 무시됩니다.
+C:\Users\LG\Desktop\KNU20211\DataStructure\0512\exercise3\ex3.c(153,1): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+  exercise3.vcxproj -> C:\Users\LG\Desktop\KNU20211\DataStructure\0512\Debug\exercise3.exe

@@ -1,0 +1,4 @@
+﻿  ex2.c
+C:\Users\LG\Desktop\KNU20211\DataStructure\0414\exercise\ex2.c(18,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'node' 왼쪽은 무시됩니다.
+C:\Users\LG\Desktop\KNU20211\DataStructure\0414\exercise\ex2.c(66,1): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+  exercise.vcxproj -> C:\Users\LG\Desktop\KNU20211\DataStructure\0414\Debug\exercise.exe

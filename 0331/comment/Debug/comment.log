@@ -1,0 +1,4 @@
+﻿  ex1.c
+C:\Users\LG\Desktop\KNU20211\DataStructure\0331\comment\ex1.c(15,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'listNode' 왼쪽은 무시됩니다.
+C:\Users\LG\Desktop\KNU20211\DataStructure\0331\comment\ex1.c(99): warning C4715: 'delete': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  comment.vcxproj -> C:\Users\LG\Desktop\KNU20211\DataStructure\0331\Debug\comment.exe

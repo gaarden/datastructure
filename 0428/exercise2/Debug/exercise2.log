@@ -1,0 +1,7 @@
+﻿  ex2.c
+C:\Users\LG\Desktop\KNU20211\DataStructure\0428\exercise2\ex2.c(12,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'node' 왼쪽은 무시됩니다.
+C:\Users\LG\Desktop\KNU20211\DataStructure\0428\exercise2\ex2.c(91,15): warning C4133: 'return': 'treePointer'과(와) 'element *' 사이의 형식이 호환되지 않습니다.
+C:\Users\LG\Desktop\KNU20211\DataStructure\0428\exercise2\ex2.c(99,15): warning C4133: 'return': 'treePointer'과(와) 'element *' 사이의 형식이 호환되지 않습니다.
+C:\Users\LG\Desktop\KNU20211\DataStructure\0428\exercise2\ex2.c(107,1): warning C4133: '초기화 중': 'element *'과(와) 'treePointer' 사이의 형식이 호환되지 않습니다.
+C:\Users\LG\Desktop\KNU20211\DataStructure\0428\exercise2\ex2.c(103): warning C4715: 'modifiedSearch': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  exercise2.vcxproj -> C:\Users\LG\Desktop\KNU20211\DataStructure\0428\Debug\exercise2.exe

@@ -1,0 +1,1 @@
+3 4 i apple 사과 i banana 바나나 i melon 멜론 i absence 부재 i ape 유인원 i afford 구매하다 i annoying 귀찮은 i allow 허락하다 s allow s annoying s afford s ape s absence s apple i calendar 캘린더 i TV 티비 i computer 컴퓨터 i line 선 i glass 유리

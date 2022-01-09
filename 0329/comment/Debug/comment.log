@@ -1,0 +1,3 @@
+﻿  ex3.c
+C:\Users\LG\Desktop\KNU20211\DataStructure\0329\comment\ex3.c(45,1): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+  comment.vcxproj -> C:\Users\LG\Desktop\KNU20211\DataStructure\0329\Debug\comment.exe
