@@ -1,5 +1,0 @@
-﻿  grade.c
-C:\Users\LG\Desktop\KNU20211\DataStructure\extra\automata\finalrate\grade.c(26,48): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\LG\Desktop\KNU20211\DataStructure\extra\automata\finalrate\grade.c(33,33): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\LG\Desktop\KNU20211\DataStructure\extra\automata\finalrate\grade.c(47,45): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  finalrate.vcxproj -> C:\Users\LG\Desktop\KNU20211\DataStructure\extra\automata\Debug\finalrate.exe
